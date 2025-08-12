@@ -21,7 +21,7 @@ The goal of this project is to predict tips based on restaurant-related features
 #### Clone the repository : 
 
 ```bash
-git clone https://github.com/Mohshaikh23/Waiter-Tips-Prediction.git
+git clone https://github.com/banishgowdads/Waiter-Tips-Prediction.git
 ```
 
 Before running the code, ensure you have the required libraries installed:
